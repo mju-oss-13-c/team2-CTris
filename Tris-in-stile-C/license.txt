@@ -1,0 +1,13 @@
+ * Tris in stile C
+ *
+ * Gioco del tris in C.
+ * Include due modalità di gioco: 2 giocatori e giocatore
+ * singolo contro il computer(3 difficoltà a scelta basate
+ * sulla profondità dell'algoritmo minimax).
+ *  
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ * 
+ * @author Michele Guerini Rocco aka Rnhmjoj
+ * @since 2011
